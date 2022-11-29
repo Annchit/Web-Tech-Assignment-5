@@ -1,0 +1,6 @@
+the given code in the question will give compilation error for 2 reasons:-
+
+  1. Colon (:) is used in place of semi-colon (;) in line 10 of Myclass2.java file 
+  2. The return type should be void instead of Void in line 8 since java is a case sensitive language
+  
+If both these issues are resolved, then the code will give 24 as the output.
