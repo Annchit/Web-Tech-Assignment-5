@@ -1,0 +1,1 @@
+Java does not support multiple inheritance, which means that one class cannot inherit from multiple classes. 
