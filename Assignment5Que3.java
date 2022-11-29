@@ -1,5 +1,3 @@
-package Assignment5;
-
 import java.util.*;
 class Marks
 {
